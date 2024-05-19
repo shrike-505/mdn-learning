@@ -1,2 +1,2 @@
-# mdn-learning
-学习mdnweb开发基础的笔记与练习
+# Flask
+有时间再说吧
